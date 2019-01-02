@@ -1,0 +1,4 @@
+﻿ຫົວຂໍ້: ເຮັດແນວໃດເພື່ອເຮັດໃຫ້ Google ຊອກຫາເວັບໄຊທ໌?
+
+ວິທີການທໍາອິດ, ໃຫ້ພວກເຮົາບອກຊື່ເວັບໄຊທ໌ Google
+href="http://www.google.co.th/addurl/?continue=/addurl"
